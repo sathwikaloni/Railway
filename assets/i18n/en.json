@@ -1,0 +1,15 @@
+{
+  "brandName": "RailConnect",
+  "brandTagline": "Indian Railways Reservation Clone Portal",
+  "navHome": "Home",
+  "navSearch": "Train Search",
+  "navPnrStatus": "PNR Status",
+  "navMyBookings": "My Bookings",
+  "navLogin": "Login",
+  "navRegister": "Register",
+  "heroTitle": "Your Journey Begins Here",
+  "heroSubtitle": "Book your train tickets easily, quickly and securely across India.",
+  "searchTrains": "Search Trains",
+  "bookNow": "Book Now",
+  "checkPnrStatus": "Check PNR Status"
+}

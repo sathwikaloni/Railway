@@ -1,0 +1,6 @@
+{
+  "name": "RailConnect - IRCTC Railway Reservation Portal",
+  "description": "Comprehensive Indian Railway reservation system inspired by IRCTC with multi-language support (English, Telugu, Hindi), train search, seat availability, ticket booking with PNR generation, and cancellation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

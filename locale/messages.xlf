@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="brandName" datatype="html">
+        <source>RailConnect</source>
+      </trans-unit>
+      <trans-unit id="brandTagline" datatype="html">
+        <source>Indian Railways Reservation Clone Portal</source>
+      </trans-unit>
+      <trans-unit id="heroTitle" datatype="html">
+        <source>Your Journey Begins Here</source>
+      </trans-unit>
+      <trans-unit id="heroSubtitle" datatype="html">
+        <source>Book your train tickets easily, quickly and securely.</source>
+      </trans-unit>
+      <trans-unit id="searchTrains" datatype="html">
+        <source>Search Trains</source>
+      </trans-unit>
+      <trans-unit id="pnrStatus" datatype="html">
+        <source>Check PNR Status</source>
+      </trans-unit>
+      <trans-unit id="myBookings" datatype="html">
+        <source>My Bookings</source>
+      </trans-unit>
+      <trans-unit id="bookNow" datatype="html">
+        <source>Book Now</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

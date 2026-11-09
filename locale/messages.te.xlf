@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" target-language="te" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="brandName" datatype="html">
+        <source>RailConnect</source>
+        <target>రైల్ కనెక్ట్</target>
+      </trans-unit>
+      <trans-unit id="brandTagline" datatype="html">
+        <source>Indian Railways Reservation Clone Portal</source>
+        <target>ఐఆర్‌సిటిసి ఆధారిత భారతీయ రైల్వే రిజర్వేషన్ పోర్టల్</target>
+      </trans-unit>
+      <trans-unit id="heroTitle" datatype="html">
+        <source>Your Journey Begins Here</source>
+        <target>మీ ప్రయాణం ఇక్కడే ప్రారంభమవుతుంది</target>
+      </trans-unit>
+      <trans-unit id="heroSubtitle" datatype="html">
+        <source>Book your train tickets easily, quickly and securely.</source>
+        <target>భారతదేశం అంతటా మీ రైలు టిక్కెట్లను సులభంగా, వేగంగా మరియు సురక్షితంగా బుక్ చేసుకోండి.</target>
+      </trans-unit>
+      <trans-unit id="searchTrains" datatype="html">
+        <source>Search Trains</source>
+        <target>రైళ్లను శోధించండి</target>
+      </trans-unit>
+      <trans-unit id="pnrStatus" datatype="html">
+        <source>Check PNR Status</source>
+        <target>పిఎన్ఆర్ స్థితిని తనిఖీ చేయండి</target>
+      </trans-unit>
+      <trans-unit id="myBookings" datatype="html">
+        <source>My Bookings</source>
+        <target>నా బుకింగ్స్</target>
+      </trans-unit>
+      <trans-unit id="bookNow" datatype="html">
+        <source>Book Now</source>
+        <target>ఇప్పుడే బుక్ చేయండి</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

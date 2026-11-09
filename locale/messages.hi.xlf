@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" target-language="hi" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="brandName" datatype="html">
+        <source>RailConnect</source>
+        <target>रेल कनेक्ट</target>
+      </trans-unit>
+      <trans-unit id="brandTagline" datatype="html">
+        <source>Indian Railways Reservation Clone Portal</source>
+        <target>आईआरसीटीसी प्रेरित भारतीय रेल आरक्षण पोर्टल</target>
+      </trans-unit>
+      <trans-unit id="heroTitle" datatype="html">
+        <source>Your Journey Begins Here</source>
+        <target>आपकी यात्रा यहाँ से शुरू होती है</target>
+      </trans-unit>
+      <trans-unit id="heroSubtitle" datatype="html">
+        <source>Book your train tickets easily, quickly and securely.</source>
+        <target>पूरे भारत में अपनी ट्रेन टिकट आसानी से, तेज़ी से और सुरक्षित रूप से बुक करें।</target>
+      </trans-unit>
+      <trans-unit id="searchTrains" datatype="html">
+        <source>Search Trains</source>
+        <target>ट्रेनें खोजें</target>
+      </trans-unit>
+      <trans-unit id="pnrStatus" datatype="html">
+        <source>Check PNR Status</source>
+        <target>पीएनआर स्थिति जांचें</target>
+      </trans-unit>
+      <trans-unit id="myBookings" datatype="html">
+        <source>My Bookings</source>
+        <target>मेरी बुकिंग</target>
+      </trans-unit>
+      <trans-unit id="bookNow" datatype="html">
+        <source>Book Now</source>
+        <target>अभी बुक करें</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
